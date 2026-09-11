@@ -65,8 +65,6 @@ Saved to PostgreSQL, returned to the frontend
 Log Customer Complaint form + AI risk assessment update
 ```
 
-A detailed step-by-step explanation is in [docs/code-walkthrough.md](docs/code-walkthrough.md).
-
 ### API endpoints
 
 | Method | Endpoint | Purpose |
@@ -212,7 +210,6 @@ frontend/src/
   api.js              Requests to FastAPI
   styles.css          Styling
 samples/              Fictional complaint documents
-docs/                 Code walkthrough, QMS notes, demo guide, verification
 tests/                Automated and live workflow tests
 compose.yaml          PostgreSQL container
 ```
@@ -229,10 +226,3 @@ This is an internship demonstration, not a validated production QMS.
 - A complaint needs at least a product name, batch number, and description before it can be saved.
 - Editing a saved complaint with AI returns it to Draft so it can be reviewed again.
 - AI output is validated for structure, but facts and risk judgments need human review.
-
-## Further reading
-
-- [Code walkthrough](docs/code-walkthrough.md)
-- [QMS research notes](docs/qms-notes.md)
-- [Demo video guide](docs/demo-guide.md)
-- [Verification results](docs/verification.md)

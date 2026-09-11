@@ -12,3 +12,5 @@ data/
 *.log
 tests/live-results.json
 AIVOA-Round-1-source.zip
+
+docs/
