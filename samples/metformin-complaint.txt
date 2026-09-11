@@ -1,0 +1,24 @@
+FICTIONAL CUSTOMER COMPLAINT FOR DEMONSTRATION
+
+Customer name: Meridian Formulations
+Customer contact: quality@meridian.example
+Complaint source: Email
+Complaint date: 2026-09-09
+Product name: Metformin hydrochloride
+Product type: API
+Product strength / grade: IP/BP
+Batch / lot number: MFH260712A
+Manufacturing date: 2026-07-12
+Expiry / retest date: 2028-07-11
+Quantity affected: 25 kg in 1 HDPE drum
+Originating site / block: Visakhapatnam, API Block A
+Impacted non-product materials: HDPE drum and inner polyethylene liner
+Complaint type: Packaging integrity / possible contamination
+
+During receipt inspection, the customer found a torn inner liner in one
+sealed shipment drum. Small dark particles were visible on the powder surface.
+The material has not been used in manufacturing and the affected drum has
+been placed on hold. The nature of the particles has not been identified.
+The customer requests an investigation, sample collection instructions, and
+guidance on replacement. No patient exposure has been reported; exposure
+across other batches is unknown. All root causes remain unconfirmed.

@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+dist/
+data/
+.cache/
+.pytest_cache/
+*.log
+tests/live-results.json
+AIVOA-Round-1-source.zip

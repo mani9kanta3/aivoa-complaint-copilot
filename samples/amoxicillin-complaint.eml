@@ -1,0 +1,30 @@
+From: Apollo Pharmacy Quality Team <quality@apollo.example>
+To: Quality Assurance <qa@aivoa.example>
+Date: Thu, 10 Sep 2026 09:30:00 +0530
+Subject: Quality complaint - discolored Amoxicillin capsules - AMX260701
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+This is a fictional complaint for demonstration only.
+
+Customer: Apollo Pharmacy
+Product: Amoxicillin capsules
+Product type: FDF
+Strength: 500 mg
+Batch number: AMX260701
+Manufacturing date: 2026-07-01
+Expiry date: 2028-06-30
+Complaint date: 2026-09-10
+Quantity affected: 24 capsules
+Manufacturing site: Hyderabad, Block B
+Impacted non-product materials: Blister packs under investigation
+Complaint type: Appearance / discoloration
+
+During incoming inspection, our pharmacist observed brown spots on the capsule
+shells in two blister strips. The blister seals appear intact. The affected
+stock has been separated pending QA instructions. We have no information about
+patient exposure or outcomes at this time.
+
+Please investigate the discoloration and advise on sample collection and the
+disposition of the affected stock. Photographs and retained samples can be
+provided on request. Contact quality@apollo.example for follow-up.
